@@ -1,3 +1,3 @@
 # hello-world
 Just my first new repository.
-This line is to do some chenge.
+This line is to do some change.
